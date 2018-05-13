@@ -1,0 +1,447 @@
+/* 
+  Localizable.strings
+  EasierPhone
+
+  Created by Bellurbis WS16 on 28/12/17.
+  Copyright © 2017 Pappy. All rights reserved.
+*/
+
+
+"Welcome\nto\neasierphone." = "Welcome\nto\neasierphone.";
+
+"Signing up will allow you to use easierphone for free for 30 days. No credit information is needed to sign up." = "Signing up will allow you to use easierphone for free for 30 days.  No credit information is needed to sign up.";
+
+
+// Login.storyboard
+
+// WelcomeViewController
+
+"Take a quick tour" = "Take a quick tour";
+
+"Signup & Login" = "Signup & Login";
+
+// WelcomeOptionsViewController
+"Back" = "Back";
+
+"Sign Up" = "Sign Up";
+
+"for a new account" = "for a new account";
+
+"Log In" = "Log In";
+
+"if you already have an account" = "if you already have an account";
+
+"Confirm Account" = "Confirm Account";
+
+"If you received an SMS invite for an account" = "If you received an SMS invite for an account";
+
+
+// LoginViewController
+
+"Next" = "Next";
+
+"Please Log In." = "Please Log In.";
+
+"Enter your Phone number (including area code)  and Password below. " = "Enter your Phone number (including area code) and Password below. ";
+
+"Phone:" = "Phone:";
+
+"Password:" = "Password:";
+
+"Forgot your Username and Password ?" = "Forgot your Password ?";
+
+// ForgotPasswordViewController
+
+"Request Password Reset" = "Request Password Reset";
+
+"Please enter your phone number (including country code)  you used when signing up for your account. We will send you a link to reset your password." = "Please enter your phone number (including country code)  you used when signing up for your account. We will send you a link to reset your password.";
+
+"We’ve sent a message with a password reset code to your phone. Please click on the link in the message or enter the code manually below." = "We’ve sent a message with a password reset code to your phone. Please click on the link in the message or enter the code manually below."; // new
+
+"Enter your Password Reset Code" = "Enter your Password Reset Code"; // new
+
+"Choose a new Password." = "Choose a new Password."; // new
+
+"Please enter your new password below." = "Please enter your new password below."; // new
+
+// LoginFailureViewController
+"We don’t know this Number." = "We don’t know this Number.";
+
+"Sorry, we do not have a record of this phone number." = "Sorry, we do not have a record of this phone number.";
+"Would you like sign up a new account with this phone number  ?" = "Would you like sign up a new account with this phone number  ?";
+
+
+// SignupEnterNameViewController
+
+"Hi. What’s your Name ?" = "Hi. What’s your Name ?";
+
+// SignupEnterMobNumberViewController
+"What’s your Number ?" = "What’s your Number ?";
+
+"We use your mobile phone number to register your account and send you the login information" = "We use your mobile phone number to register your account and send you the login information.";
+
+"Select a country code" = "Select a country code";
+
+
+// SignUpMobNumberOTPCodeViewController
+"Enter your Login Code" = "Enter your Login Code";
+
+"We’ve sent a message with a login code to your phone. Please click on the link in the message or enter the code manually below. " = "We’ve sent a message with a login code to your phone. Please click on the link in the message or enter the code manually below. ";
+
+// SignupAddPasswordViewController
+"Choose a Password." = "Choose a Password.";
+
+"You need a password to protect your Account." = "You need a password to protect your Account.";
+
+"Enter password here" = "Enter password here";
+
+"Enter password again" = "Enter password again";
+
+"Confirm Password" = "Confirm Password";
+
+// LoginViewController
+"Welcome back." = "Welcome back.";
+
+"The mobile phone number you entered has already been registered with easierphone.  Please log in using your Password." = "The mobile phone number you entered has already been registered with easierphone.  Please log in using your Password.";
+
+
+// Home.storyboard
+
+// HomeViewController
+"phone" = "Phone";
+
+"calendar" = "Calendar";
+
+"notes" = "Notes";
+
+"web" = "Web";
+
+"reminder" = "Reminders";
+
+"emergency" = "Emergency";
+
+"Subscribe" = "Subscribe";
+
+// NotesViewController
+"Home" = "Home";
+
+"Add" = "Add";
+
+"Edit" = "Edit";
+
+
+// NotesDetailEditViewController
+"Delete" = "Delete";
+
+"Done" = "Done";
+
+"Enter Title Here" = "Enter Title Here";
+
+"Enter Description Here" = "Enter Description Here";
+
+
+
+
+// Settings.storyboard
+
+// SettingsViewController
+"Settings" = "Settings";
+
+// FeaturesAndPermissionsSettingsViewController
+"Features & Permissions" = "Features & Permissions";
+
+// UserAccountViewController
+"User Account" = "User Account";
+
+"Username:" = "Username:";
+
+
+
+// NotesDetailEditViewController.swift
+"Something went wrong. Please try later." = "Something went wrong. Please try later.";
+
+"OK" = "OK";
+
+"Confirm deletion" = "Confirm deletion";
+
+"Are you sure you want to delete this entry ?" = "Are you sure you want to delete this entry ?";
+
+"Yes" = "Yes";
+
+"No" = "No";
+
+
+
+// LoginViewController.swift
+"Login Failed" = "Login Failed";
+
+"Incorrect Credentials" = "Incorrect Credentials";
+
+// SignupAddPasswordViewController.swift
+"Sign up Failed" = "Sign up Failed";
+
+// SignUpMobNumberOTPCodeViewController.swift
+"OTP incorrect" = "OTP incorrect";
+
+// SignupEnterMobNumberViewController.swift
+
+"Some error occurred. Please try after some time." = "Some error occurred. Please try after some time.";
+
+// UserAccountViewController.swift
+"Log out" = "Log out";
+
+// SettingsViewController.swift
+"Language" = "Language";
+
+"Larger Text" = "Larger Text";
+
+"Subscription" = "Subscription";
+
+"Help others with their phones !" = "Help others with their phones !";
+
+"Contact Us" = "Contact Us";
+
+"CONTACTUS_TEXT" = "<HTML><HEAD> </HEAD> <BODY><font face='SanFranciscoDisplay-Light' size='5.0'>Thank you for using easierphone.<br>If you feel something is not working the way it should, or have any other questions about easierphone, please <a href='email'>send us a message</a></BODY></HTML>";
+
+
+"SUBSCRIPTION_TEXT" = "You are currently using the basic version of easierphone with a limited set of features.\nPlease choose one of the options to subscribe and use the full version of easierphone.";
+
+// edit emergency
+"EMERGENCY_CALL" = "emergency call number";
+
+"EMERGENCY_CALL_DETAIL" = "This number will be called when the red emergency button is used to make an emergency call.";
+
+"EMERGENCY_SMS" = "emergency sms";
+
+"EMERGENCY_SMS_DETAIL" = "When an emergency call is made, an SMS message will be sent to these numbers with the time and location information of the device where the emergency call was made.";
+
+"EMERGENCY_EMAIL" = "emergency email";
+
+"EMERGENCY_EMAIL_DETAIL" = "When an emergency call is made, an email message will be sent to these addresses with the time and location information of the device where the emergency call was made.";
+
+
+
+// Features and Permissions
+"GENERAL" = "GENERAL";
+
+"allow user to edit" = "allow user to edit";
+
+"button haptic feedback" = "button haptic feedback";
+
+"button sounds" = "button sounds";
+
+"PHONE" = "PHONE";
+
+"show phone" = "show phone";
+
+"enable Whatsapp voice calling" = "enable Whatsapp voice calling";
+
+"CALENDER" = "CALENDAR";
+
+"show calendar" = "show calendar";
+
+"WEB BROWSER" = "WEB";
+
+"show web" = "show web";
+
+"NOTES" = "NOTES";
+
+"show notes" = "show notes";
+
+"REMINDER" = "REMINDERS";
+
+"show reminders" ="show reminders";
+
+"Notifications for Reminders" = "Notifications for Reminders";
+
+"EMERGENCY" = "EMERGENCY";
+
+"show emergency" = "show emergency";
+
+"edit emergency contacts" = "edit emergency contacts";
+
+"easierphone user guide" = "easierphone user guide";
+
+
+// Edit emergenct Contacts
+
+"Emergency Phone Number" = "Emergency Phone Number";
+
+"Name" = "Name";
+
+"Phone" = "Phone";
+
+// Edit emergency SMS
+
+"Emergency sms" = "Emergency sms";
+
+"SMS" = "SMS";
+
+
+// Edit emergency SMS
+
+"Emergency email" = "Emergency email";
+
+"E-mail" = "E-mail";
+
+
+// Notifications
+
+"Turn on notifications?" = "Turn on notifications?";
+
+"NOTIFICATION_SCREEN_TEXT" = "To get notifications for reminders, you'll need to turn them on in your iOS Settings. Here's how:";
+
+"1. Tap Notifications" = "1. Tap \"Notifications\"";
+
+"2. Turn Allow Notifications on" = "2. Turn \"Allow Notifications\" on";
+
+"Open iOS Settings" = "Open iOS Settings";
+
+// Calendar
+
+"Mon" = "Mon";
+
+"Tue" = "Tue";
+
+"Wed" = "Wed";
+
+"Thu" = "Thu";
+
+"Fri" = "Fri";
+
+"Sat" = "Sat";
+
+"Sun" = "Sun";
+
+"Today" = "Today";
+
+"today" = "today";
+
+
+// Web
+
+"Url" = "Url";
+
+"URL" = "URL";
+
+"Bigger" = "Bigger";
+
+"Smaller" = "Smaller";
+
+// Remindar
+
+"Reminder" = "Reminders";
+
+"Remind me on a day" = "Remind me on a day";
+
+"Alarm" = "Alarm";
+
+"Repeat" = "Repeat";
+
+"End Repeat" = "End Repeat";
+
+"Set Alarm" = "Set Alarm";
+
+"Remind me at a location" = "Remind me at a location";
+
+"Location" = "Location";
+
+"Current Location" = "Current Location";
+
+"Every Day" = "Every Day";
+
+"Never" = "Never";
+
+"Every Week" = "Every Week";
+
+"Every 2 Weeks" = "Every 2 Weeks";
+
+"Every Month" = "Every Month";
+
+"Every Year" = "Every Year";
+
+"Custom" = "Custom";
+
+"Repeat Forever" = "Repeat Forever";
+
+"End Repeat Date" = "End Repeat Date";
+
+// Contacts
+
+"Keyboard" = "Keyboard";
+
+"NAME" = "NAME";
+
+"PHONE NUMBER" = "PHONE NUMBER";
+
+"Please input valid name and Phone number" = "Please input valid name and Phone number";
+
+"No Contacts Access" = "No Contacts Access";
+
+"Unable to access contacts" = "Unable to access contacts";
+
+"App does not have access to contacts. Kindly enable it in privacy settings" = "App does not have access to contacts. Kindly enable it in privacy settings";
+
+
+// 28 Feb 2018
+
+// Help other screen
+
+"HELP_OTHER_DESC" = "Other Easierphone users you have added are listed here. If you switch to their account, you can help them manage their data on your own device. Your data will be saved when you switch accounts.";
+
+"Add someone else's account to your device" = "Add someone else's account to your device";
+
+"Set up a new account for someone else" = "Set up a new account for someone else";
+
+
+// Add new account
+
+"ADD_NEW_ACCOUNT_INFO" = "Enter the name and mobile phone number of the person you'd like to assist, and set a password on the next screen.\n\nAn invitation to confirm the account will be sent by sms message to the person you invite.\n\nThe account will be added to your device as well.\nYou will be able to add contacts, calendar entries, notes, web links, reminders and emergeny numbers for the person you invite.";
+
+"ADD_EXISTING_ACCOUNT_INFO" = "If you want to help another easierphone user with his phone,  add his name, mobile phone number and easierphone account password in the next screen.\n\nWhen added, you can add contacts, calendar entries, notes, web links, reminders and emergeny numbers for this user.\n\nThe user identification (name, mobile phone number, password) must be provided by the user you want to assist. ";
+
+"Add an existing easierphone account of someone else to your device" = "Add an existing easierphone account of someone else to your device";
+
+"The user identification must be provided by the user you want to assist" = "The user identification must be provided by the user you want to assist";
+
+"The new account is set up !" = "The new account is set up !";
+
+"Set_Up_NEW_ACCOUNT_INFO" = "Congratulations ! The account for Esme Huber has been created.\n\nAn SMS message has been sent to Esme Huber to confirm this new account.\n\nEsme Huber's account has been added to your device. You can now add contacts, calendar entries, notes, web links, reminders and emergeny numbers for Esme Huber.\n\nThe account needs to be confirmed by Esme Huber to sync the contacts, calendar entries, notes, web links, reminders and emergeny numbers you added.";
+
+"Added Account  Ursula to your Device" = "Added Account  Ursula to your Device";
+
+"ADDED_EXISTING_ACCOUNT_INFO" = "User Ursula has been sucessfully added to your device.\nYou can now add contacts, calendar entries, notes, web links, reminders and emergeny numbers for Ursula.";
+
+
+//LargerTextViewController
+
+"Larger Text" = "Larger Text";
+
+"use iOS accessability type setting" = "use iOS accessability type setting";
+
+"If enabled, please set the type size in Settings > General > Accessibility > Larger Text" = "If enabled, please set the type size in Settings > General > Accessibility > Larger Text";
+
+
+// Contacts Camera
+
+"Take Photo" = "Take Photo";
+
+"Choose Photo" = "Choose Photo";
+
+"Edit Photo" = "Edit Photo";
+
+"Delete Photo" = "Delete Photo";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
